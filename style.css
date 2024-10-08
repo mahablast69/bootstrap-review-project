@@ -1,0 +1,83 @@
+
+:root {
+    --highlight: #10c9c3;
+    --background: #787878;
+    --font: #141414;
+    --background2: #f5f5f5;
+    --white: #fff;
+}
+
+
+.sec1{
+    background-image: url(images/images/aidan-hancock-8RU4OuA6Yug-unsplash.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+.top{
+ 
+    padding-top: 25%;
+  
+}
+
+.work {
+    background-color: rgb(16, 201, 195);
+    color: white;
+    padding: 5%;
+
+}
+
+.test {
+    background-color: rgb(16, 201, 195);
+    text-align: center;
+    color:white;
+    padding: 5%;
+}
+
+.about{
+    text-align: center;
+}
+
+.ser{
+    text-align: center;
+   padding-left:5%;
+   padding-right:5%;
+}
+
+div.row.about{
+    padding: 100px;
+}
+
+.skills{
+    
+    background-color: #f5f5f5;
+}
+
+.col-lg-6.image {
+    background: url('images/images/stil-sHGyGynyD5Y-unsplash.png') center/cover;
+    height: 500px;
+    background-color: #f5f5f5;
+  }
+
+  .b{
+    background-color: #000000;
+    color: white;
+  }
+
+  .ss{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+  }
+
+  .project{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #F5F5F5;
+  }
+
+.mb-4{
+padding-left: 5%;
+padding-right: 5%;
+}
